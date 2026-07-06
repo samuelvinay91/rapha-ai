@@ -1,0 +1,6 @@
+{
+  "name": "Rapha Enterprises AI",
+  "description": "An immersive, high-end digital presence for Rapha Enterprises AI, featuring fluid 3D mouse-following canvas interactions, custom cursors, smooth text scroll-reveals, drag-to-scroll portfolios, and interactive agent workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
